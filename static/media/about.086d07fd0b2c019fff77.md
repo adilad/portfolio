@@ -22,8 +22,6 @@ I find great joy and fulfillment in the pursuit of knowledge, continuously immer
 - Sketching
 - [Books](https://www.goodreads.com/user/show/36191226-aditya)
 - Podcasts ([The Daily](https://www.nytimes.com/column/the-daily),[Hidden Brain](https://www.npr.org/series/423302056/hidden-brain))
-- TV shows : Ozark, Mindhunters, House of Cards ( Big fan of David Fincher )
-- Movies : La La Land, Manchester By the Sea
 
 # Travel / Geography
 

@@ -24,15 +24,25 @@ const data = [
     label: 'Current age',
     value: <Age />,
   },
-  {
-    key: 'places',
-    label: 'Places I have been to',
-    link: '',
-  },
+  // {
+  //   key: 'places',
+  //   label: 'Places I have been to',
+  //   link: '',
+  // },
   {
     key: 'location',
     label: 'Current city',
     value: 'San Francisco, CA',
+  },
+  {
+    key: 'tv show',
+    label: 'Favorite TV Shows',
+    value: 'Ozark, Mindhunters, House of Cards',
+  },
+  {
+    key: 'movie',
+    label: 'Favorite Movies',
+    value: 'La La Land, Manchester By the Sea',
   },
 ];
 

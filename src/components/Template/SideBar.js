@@ -18,7 +18,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Aditya&apos;Lad </p>
+      <p className="copyright">&copy; Aditya Lad </p>
     </section>
   </section>
 );

@@ -2,17 +2,12 @@ const skills = [
   {
     title: 'Javascript',
     competency: 2,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
-    title: 'JAVA',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Languages'],
   },
   {
     title: 'React',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development'],
   },
   {
     title: 'Bash',
@@ -20,14 +15,19 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
+    title: 'JAVA',
+    competency: 3,
+    category: ['Tools', 'Languages'],
+  },
+  {
     title: 'Amazon Web Services',
     competency: 4,
-    category: ['Web Development', 'Tools'],
+    category: ['Web Development', 'Tools', 'Cloud'],
   },
   {
     title: 'Terraform',
     competency: 3,
-    category: ['Web Development', 'Tools'],
+    category: ['Devops', 'Automation', 'Tools'],
   },
   {
     title: 'MongoDB',
@@ -41,7 +41,7 @@ const skills = [
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
@@ -55,14 +55,14 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
-    title: 'Git/Mercurial',
+    title: 'Git',
     competency: 3,
     category: ['Tools'],
   },
   {
     title: 'Kubernetes',
     competency: 3,
-    category: ['Tools', 'Data Engineering'],
+    category: ['Tools'],
   },
   {
     title: 'Google Cloud Compute',
@@ -72,22 +72,22 @@ const skills = [
   {
     title: 'Docker',
     competency: 4,
-    category: ['Tools', 'Data Engineering', 'Devops'],
+    category: ['Tools', 'Devops'],
   },
   {
     title: 'AWS Lambda',
     competency: 3,
-    category: ['Tools', 'Web Development'],
+    category: ['Tools', 'Web Development', 'Cloud'],
   },
   {
     title: 'Numpy',
     competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python', 'ML Engineering'],
+    category: ['Python'],
   },
   {
-    title: 'Numba',
-    competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    title: 'Ansible',
+    competency: 3,
+    category: ['Devops', 'Automation'],
   },
   {
     title: 'DataDog',
@@ -95,20 +95,11 @@ const skills = [
     category: ['Monitoring', 'DevOps'],
   },
   {
-    title: 'PyTorch',
-    competency: 3,
-    category: ['ML Engineering', 'Python'],
-  },
-  {
     title: 'Jupyter',
     competency: 3,
     category: ['Data Science', 'Python'],
   },
-  {
-    title: 'Typescript',
-    competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
+
   {
     title: 'HTML + SASS/SCSS/CSS',
     competency: 3,
@@ -120,8 +111,8 @@ const skills = [
     category: ['Languages', 'Python', 'ML Engineering'],
   },
   {
-    title: 'C++',
-    competency: 1,
+    title: 'C',
+    competency: 2,
     category: ['Languages'],
   },
 
@@ -134,36 +125,81 @@ const skills = [
   {
     title: 'Data Visualization',
     competency: 3,
-    category: ['Data Science', 'Javascript'],
+    category: ['Data Science'],
   },
   {
-    title: 'GraphQL',
+    title: 'Groovy',
     competency: 2,
-    category: ['Web Development', 'Databases'],
+    category: ['Devops', 'Automation'],
   },
   {
     title: 'Pandas',
-    competency: 5,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    competency: 3,
+    category: ['ML Engineering', 'Python'],
   },
   {
     title: 'Matplotlib',
     competency: 3,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    category: ['ML Engineering', 'Python'],
   },
   {
     title: 'Scikit-Learn',
     competency: 4,
-    category: ['Data Engineering', 'ML Engineering', 'Python'],
+    category: ['ML Engineering', 'Python'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'ML Engineering'],
+    title: 'Debian',
+    competency: 3,
+    category: ['Operating Systems'],
+  },
+  {
+    title: 'Redhat',
+    competency: 4,
+    category: ['Operating Systems'],
+  },
+  {
+    title: 'SUSE',
+    competency: 3,
+    category: ['Operating Systems'],
+  },
+  {
+    title: 'MacOS',
+    competency: 4,
+    category: ['Operating Systems'],
   },
   {
     title: 'Jenkins',
-    competency: 5,
+    competency: 4,
+    category: ['Devops'],
+  },
+  {
+    title: 'TCP/IP',
+    competency: 4,
+    category: ['Network'],
+  },
+  {
+    title: 'OSPF',
+    competency: 3,
+    category: ['Network'],
+  },
+  {
+    title: 'BGP',
+    competency: 2,
+    category: ['Network'],
+  },
+  {
+    title: 'SSL',
+    competency: 2,
+    category: ['Network'],
+  },
+  {
+    title: 'HTTP',
+    competency: 3,
+    category: ['Network'],
+  }, 
+  {
+    title: 'Teamcity',
+    competency: 4,
     category: ['Devops'],
   },
   {
@@ -173,7 +209,7 @@ const skills = [
   },
   {
     title: 'Vmware Exsi',
-    competency: 2,
+    competency: 4,
     category: ['Devops'],
   },
   {
@@ -187,7 +223,17 @@ const skills = [
     category: ['Data Engineering', 'Python'],
   },
   {
+    title: 'Artifactory',
+    competency: 4,
+    category: ['Devops'],
+  },
+  {
     title: 'Prometheus',
+    competency: 4,
+    category: ['Devops', 'Monitoring'],
+  },
+  {
+    title: 'Grafana',
     competency: 4,
     category: ['Devops', 'Monitoring'],
   },
@@ -205,6 +251,11 @@ const skills = [
     title: 'Apache Kafka',
     competency: 3,
     category: ['Devops', 'Messaging'],
+  },
+  {
+    title: 'Wireshark',
+    competency: 3,
+    category: ['Devops', 'Networks'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

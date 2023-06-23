@@ -17,7 +17,7 @@ const work = [
     position: 'Lead Software Engineer/VP',
     url: 'https://www.jpmorgan.com/global',
     startDate: '2022-10-24',
-    summary: 'Part of the Payments Team at WePay',
+    summary: 'Payments Team at WePay',
     highlights: [
       'Maintain a strong understanding of industry trends, emerging technologies, the best practices within software engineering and apply this knowledge to develop innovative inhouse solutions',
     ],

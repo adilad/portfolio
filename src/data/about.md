@@ -1,7 +1,7 @@
 # Intro
 
 Hi, my name is Aditya Lad.
-I find great joy and fulfillment in the pursuit of knowledge, continuously immersing myself in a vast array of diverse subjects. I am deeply fascinated by the intricate tapestry of ideas and concepts that the world offers and I ardently seek out opportunities to engage in profound and meaningful conversations.
+I find great joy and fulfillment in the pursuit of knowledge, continuously immersing myself in a vast array of diverse subjects. I am deeply fascinated by ideas and concepts that the world offers and I ardently seek out opportunities to engage in profound and meaningful conversations.
 
 # Some history
 

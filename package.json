@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://adilad.github.io/personal-website/",
+  "homepage": "https://adilad.github.io/portfolio/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adilad/personal-site.git"
+    "url": "https://github.com/adilad/portfolio.git"
   },
   "engines": {
     "node": ">=14.x"

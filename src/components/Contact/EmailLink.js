@@ -13,12 +13,9 @@ const messages = [
   'hi',
   'hello',
   'hola',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
+  'you-can-setup-a-meeting',
+  'we can discuss about diverse things',
+  'I would love to chat',
   'just-saying-hi',
   'reach me on linkedin',
   'being a bit cautious of the bots here',
@@ -85,7 +82,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href={validateText(message) ? `mailto:${message}m` : ''}>
         <span>{message}</span>
-        <span>@.com</span>
+        <span></span>
       </a>
     </div>
   );

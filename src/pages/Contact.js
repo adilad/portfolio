@@ -1,14 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
 
 import Main from '../layouts/Main';
 import EmailLink from '../components/Contact/EmailLink';
 import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
-  <Main
-    title="Contact"
-  >
+  <Main title="Contact">
     <article className="post" id="contact">
       <header>
         <div className="title">
@@ -16,7 +16,7 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Feel free to get in touch</p>
+        <p>Feel free to setup a meeting with me: <a href="https://calendly.com/ladaditya"> <FontAwesomeIcon icon={faCalendarAlt} /></a></p>
         <EmailLink />
       </div>
       <ContactIcons />

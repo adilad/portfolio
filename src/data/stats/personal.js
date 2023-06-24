@@ -35,6 +35,11 @@ const data = [
     value: 'San Francisco, CA',
   },
   {
+    key: 'code_language',
+    label: 'Favorite Language',
+    value: 'Python',
+  },
+  {
     key: 'tv show',
     label: 'Favorite TV Shows',
     value: 'Ozark, Mindhunters, House of Cards',
@@ -44,6 +49,7 @@ const data = [
     label: 'Favorite Movies',
     value: 'La La Land, Manchester By the Sea',
   },
+
 ];
 
 export default data;

@@ -10,14 +10,13 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2><Link to="/">Hey there</Link></h2>
+          <h2><Link to="/">Welcome to my Website </Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+          Move around the tabs to know more about me.
           </p>
         </div>
       </header>
-      <p> TBD </p>
+      <p> </p>
     </article>
   </Main>
 );

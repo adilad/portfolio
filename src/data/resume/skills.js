@@ -1,5 +1,30 @@
 const skills = [
   {
+    title: 'Leadership',
+    competency: 5,
+    category: ['People Skills', 'Management'],
+  },
+  {
+    title: 'Communication',
+    competency: 5,
+    category: ['People Skills', 'Management'],
+  },
+  {
+    title: 'Problem-Solving',
+    competency: 5,
+    category: ['People Skills', 'Management'],
+  },
+  {
+    title: 'Team-Player',
+    competency: 5,
+    category: ['People Skills', 'Management'],
+  },
+  {
+    title: 'Adaptability',
+    competency: 5,
+    category: ['People Skills', 'Management'],
+  },
+  {
     title: 'Javascript',
     competency: 2,
     category: ['Web Development', 'Languages'],
@@ -92,12 +117,12 @@ const skills = [
   {
     title: 'DataDog',
     competency: 3,
-    category: ['Monitoring', 'DevOps'],
+    category: ['Monitoring', 'Devops'],
   },
   {
     title: 'Jupyter',
     competency: 3,
-    category: ['Data Science', 'Python'],
+    category: ['Python'],
   },
 
   {
@@ -120,12 +145,6 @@ const skills = [
     title: 'MATLAB',
     competency: 2,
     category: ['Languages'],
-  },
-
-  {
-    title: 'Data Visualization',
-    competency: 3,
-    category: ['Data Science'],
   },
   {
     title: 'Groovy',
@@ -196,7 +215,7 @@ const skills = [
     title: 'HTTP',
     competency: 3,
     category: ['Network'],
-  }, 
+  },
   {
     title: 'Teamcity',
     competency: 4,
@@ -220,7 +239,7 @@ const skills = [
   {
     title: 'Pylint',
     competency: 4,
-    category: ['Data Engineering', 'Python'],
+    category: [ 'Python'],
   },
   {
     title: 'Artifactory',
@@ -255,7 +274,7 @@ const skills = [
   {
     title: 'Wireshark',
     competency: 3,
-    category: ['Devops', 'Networks'],
+    category: ['Devops', 'Network'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

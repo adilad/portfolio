@@ -17,8 +17,6 @@ const work = [
     position: 'Lead Software Engineer/VP',
     url: 'https://www.jpmorgan.com/global',
     startDate: '2022-10-24',
-    summary: 'Payments Team',
-   
   },
   {
     name: 'SOFI/ Galileo Financial Technologies',
@@ -26,7 +24,6 @@ const work = [
     url: 'https://www.sofi.com/',
     startDate: '2021-08-01',
     endDate: '2022-07-10',
-  
   },
   {
     name: 'AMD',
@@ -34,7 +31,6 @@ const work = [
     url: 'https://www.amd.com/en.html',
     startDate: '2018-09-24',
     endDate: '2021-08-30',
-   
   },
   {
     name: 'CapWIN',
@@ -42,7 +38,6 @@ const work = [
     url: 'http://www.capwin.org/',
     startDate: '2017-03-27',
     endDate: '2018-09-16',
-  
   },
 ];
 

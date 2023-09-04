@@ -8,8 +8,9 @@ I am deeply fascinated by ideas and concepts that this world offers and I seek o
 - Growing up I excelled at athletics and I won several medals.
 - At 10, I got my first Intel Pentium 4, 256MB Memory computer.
 - I was obsessed with games namely Age of Empires, Age of Mythology, Need for Speed and Grand Theft Auto.
+- 2010 : I got my first acoustic guitar
 - 2012 : I started keeping an electronic dairy and I have a detailed record of almost every day since then.
-- 2012 - 2015 : Watched all of the TOP 500 IMDB movies.
+- 2012 - 2015 : Watched all the TOP 500 IMDB movies.
 - 2016 : Marked a profound turning point in my life as I developed a taste to Coffee. Since then we have been inseperable.
 - 2020 : Got obsessed with True Crime and listened to all the episodes of Crime Junkie.
 
@@ -28,13 +29,15 @@ I am deeply fascinated by ideas and concepts that this world offers and I seek o
 # Travel / Geography
 
 - I am from originally from Mumbai, India. Moved to the states and since then I have lived in Santa Clara, San Jose, College Park.
-- I have a [Youtube channel](https://www.youtube.com/@AdityaLad7/featured) where I post my travel videos just for fun.
+- I have a just for fun travel [Youtube channel](https://www.youtube.com/@AdityaLad7/featured).
+- Here is my [Personal blog](https://www.notion.so/thunderous-titan/Ephemeral-Encounters-Indelible-Marks-cbda1448cda64737a6d5edfb52195c7e) where I post stories about people and experiences in my life.
 
 # I dream of
 
 - Always finding inspiration.
 - Doing better.
 - Hoping for the best.
+- Staying organized.
 - You not checking the commit history for earlier drafts of this file.
 
 # People I admire

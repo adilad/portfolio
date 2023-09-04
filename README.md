@@ -1,3 +1,3 @@
 # Personal Website
 
-My personal website : https://adilad.github.io/personal-website
+My personal website : https://adilad.github.io/portfolio
